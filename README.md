@@ -1,4 +1,9 @@
 ## Programming with Python
 
-This program represents a software for a shop management. Its characteristics are the folling:
+Creation of a software for the management of a shop of vegan products. The software has the following features:
+
+* _Registration of new products, with name, quantity, sale price and purchase price;_
+* _List of all the products contained in the stock;_
+* _Record of the sales made;_
+* _Visualization of gross and net profits._
 
