@@ -1,4 +1,4 @@
-## Programming with Python
+## store management software
 
 Creation of a software for the management of a shop. The software has the following features:
 
